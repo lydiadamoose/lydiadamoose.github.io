@@ -57,10 +57,11 @@ h4 {
 li  {
     
     font-size: 16px;
-    color: white;
+    color: gold;
 }
 
 a:visited {
+    font-size: 16px;
     color: white;
 }
 
@@ -79,12 +80,6 @@ a {
   padding: 8px 16px;
 }
 
-
-li  {
-    
-    font-size: 16px;
-    color: gold;
-}
 
 a:visited {
     color: white;
