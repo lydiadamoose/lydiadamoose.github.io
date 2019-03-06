@@ -61,6 +61,10 @@ li  {
     color: gold;
 }
 
+a:link {
+    color: gold;
+}
+
 a:visited {
     color: white;
 }
