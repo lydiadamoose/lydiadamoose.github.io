@@ -9,6 +9,7 @@ body {
     margin: 0 auto;
     background-color: navy;
     color: gold;
+    font-family:font-family: 'Vidaloka', serif;
 }
 
 h1 {
@@ -16,6 +17,7 @@ h1 {
     margin-left: 40px;
     font-size: 90px;
     justify-content: center;
+
 }
 
 .container {
@@ -32,6 +34,7 @@ h2 {
     width: 500px;
     font-size: 35px;
     text-align-last: center;
+
 }
 
 iframe {
