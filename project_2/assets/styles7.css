@@ -22,7 +22,7 @@ h1 {
 
 .container {
     margin: 0 auto;
-    height: 1000px;
+    height: 1020px;
     width: 700px;
     border: dashed navy;
     background-color: white;
@@ -44,7 +44,7 @@ iframe {
 
 h3 {
     
-    border: solid gold 2px;
+    border: solid navy 2px;
     padding: 20px;
 }
 
@@ -52,8 +52,9 @@ h4 {
     margin: 20px;
     margin-left: 40px;
     width: 580px;
-    border: solid gold;
-    padding: 20px;
+    border: solid navy;
+    border-radius: 40%;
+    padding: 30px;
     text-align: center;
     font-size: 16px;
 }
