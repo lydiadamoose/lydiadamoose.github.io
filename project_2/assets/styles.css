@@ -7,8 +7,8 @@ body {
     height: 1024px;
     width: 768px;
     margin: 0 auto;
-    background-color: navy;
-    color: gold;
+    background-color: lightcoral;
+    color: navy;
     font-family: 'Vidaloka', serif;
 }
 
@@ -23,7 +23,8 @@ h1 {
     margin: 0 auto;
     height: 1000px;
     width: 700px;
-    border: dashed gold;
+    border: dashed navy;
+    background-color: white;
 }
 
 h2 {
@@ -43,17 +44,20 @@ h3 {
     
     border: solid gold 2px;
     padding: 20px;
+    color: navy;
 }
 
 h4 {
-    margin: 20px;
-    margin-left: 40px;
+    margin: 40px;
+    margin-bottom: 50px;
     width: 580px;
-    border: solid gold;
+    border: solid navy;
+    border-radius: 10%;
     padding: 20px;
     text-align: center;
     font-size: 16px;
-    color: gold;
+    color: navy;
+    line-height: 30px
 }
 
 li  {
@@ -62,18 +66,11 @@ li  {
     color: gold;
 }
 
-a:link {
-    color: white;
-}
-
-a:visited {
-    color: white;
-}
 
 .buttons {
     width: 600px;
-    margin-top: 20px;
-    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-bottom: 10px;
     margin-left: 50px;
     display: flex;
     justify-content: space-between;
@@ -83,6 +80,14 @@ a {
   text-decoration: none;
   display: inline-block;
   padding: 8px 16px;
+}
+
+a:link   {
+    color:gold;
+}
+
+a:visited {
+    color: gold;
 }
 
 

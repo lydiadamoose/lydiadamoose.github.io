@@ -7,8 +7,8 @@ body {
     height: 1024px;
     width: 768px;
     margin: 0 auto;
-    background-color: navy;
-    color: gold;
+    background-color: lightcoral;
+    color: navy;
     font-family:font-family: 'Vidaloka', serif;
 }
 
@@ -24,7 +24,8 @@ h1 {
     margin: 0 auto;
     height: 1000px;
     width: 700px;
-    border: dashed gold;
+    border: dashed navy;
+    background-color: white;
 }
 
 h2 {
@@ -60,11 +61,11 @@ h4 {
 li  {
     
     font-size: 16px;
-    color: white;
+    color: navy;
 }
 
 a:link {
-    color:white;
+    color:navy;
 }
 
 a:visited {
