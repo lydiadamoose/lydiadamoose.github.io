@@ -91,11 +91,11 @@ a {
 }
 
 a:link   {
-    color:gold;
+    color:navy;
 }
 
 a:visited {
-    color: gold;
+    color: navy;
 }
 
 
@@ -105,16 +105,16 @@ a:hover {
 }
 
 .previous {
-  background-color: red;
-  color: white;
+  background-color: mediumaquamarine;
+  border: 2px solid navy;
  padding-top: 22px;
      border-radius: 10%;
 }
 
 
 .next {
-  background-color: #98ffcc;
-  border: solid black;
+  background-color: mediumaquamarine;
+  border: 2px solid navy;
     padding-top: 22px;
     border-radius: 10%;
 }
