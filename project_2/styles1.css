@@ -105,14 +105,14 @@ a:hover {
 }
 
 .previous {
-  background-color: red;
+  background-color: #98ffcc;
   color: white;
  padding-top: 22px;
     border-radius: 10%;
 }
 
 .next {
-  background-color: #4CAF50;
+  background-color: #98ffcc;
   color: white;
     padding-top: 22px;
     border-radius: 10%;
