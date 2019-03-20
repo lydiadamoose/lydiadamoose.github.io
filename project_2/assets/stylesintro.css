@@ -108,12 +108,15 @@ a:hover {
   background-color: red;
   color: white;
  padding-top: 22px;
+     border-radius: 10%;
 }
+
 
 .next {
   background-color: #4CAF50;
   color: white;
     padding-top: 22px;
+    border-radius: 10%;
 }
 
 .round {
