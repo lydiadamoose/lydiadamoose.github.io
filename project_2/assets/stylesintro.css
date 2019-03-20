@@ -105,7 +105,7 @@ a:hover {
 }
 
 .previous {
-  background-color: mediumaquamarine;
+  background-color: #bff7df;
   border: 2px solid navy;
  padding-top: 22px;
      border-radius: 10%;
@@ -113,7 +113,7 @@ a:hover {
 
 
 .next {
-  background-color: mediumaquamarine;
+  background-color: #bff7df;
   border: 2px solid navy;
     padding-top: 22px;
     border-radius: 10%;
