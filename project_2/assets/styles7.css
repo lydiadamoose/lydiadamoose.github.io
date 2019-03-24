@@ -48,18 +48,17 @@ iframe {
 }
 
 h3 {
-    
-    border: solid navy 2px;
+
     padding: 20px;
 }
 
 h4 {
     margin: 20px;
-    margin-left: 25px;
+    margin-left: 35px;
     width: 580px;
     border: solid navy;
-    border-radius: 10%;
-    padding: 30px;
+    border-radius: 25px;
+    padding: 25px;
     text-align: center;
     font-size: 16px;
 }
@@ -99,18 +98,22 @@ a:hover {
   color: black;
 }
 
-.previous {
-  background-color: #bff7df;
+.previous  {
+    display: inline-block;
+  padding-top: 22px;
+  color: white;
   border: 2px solid navy;
- padding-top: 22px;
-    border-radius: 10%;
+  border-radius: 10%;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
 }
-
 .next {
   background-color: #bff7df;
   border: 2px solid navy;
     padding-top: 22px;
     border-radius: 10%;
+    text-align: center;
 }
 
 .round {
