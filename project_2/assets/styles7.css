@@ -1,3 +1,11 @@
+h2 {
+    margin-top: 20px;
+    margin-left: 70px;
+    padding: 8px;
+    width: 500px;
+    font-size: 35px;
+    text-align-last: center;
+}
 h4 {
     margin: 20px;
     margin-left: 40px;
