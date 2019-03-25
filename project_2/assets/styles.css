@@ -100,7 +100,7 @@ a:hover {
   padding-top: 22px;
   color: white;
   border: 2px solid navy;
-  border-radius: 10%;
+  border-radius: 10px;
   text-align: center;
   outline: none;
   text-decoration: none;
@@ -109,7 +109,7 @@ a:hover {
   background-color: #bff7df;
   border: 2px solid navy;
     padding-top: 22px;
-    border-radius: 10%;
+    border-radius: 10px;
     text-align: center;
 }
 
