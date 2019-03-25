@@ -21,7 +21,9 @@ h1 {
 }
 
 h5 {
-    margin-left: 40px;
+   margin: 0 auto;
+    padding: 10px;
+   text-align: center;
 }
 
 
