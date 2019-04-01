@@ -1,0 +1,134 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    background-color:azure
+}
+
+header {
+    background-color: #BEEEFC;
+    margin: 0 auto;
+    padding: 1.25em;
+    border-bottom: 2px solid red;
+    text-align: center;
+}
+
+header img {
+    height: 9.25em;
+}
+
+
+}
+
+header h1 {
+    text-align: center;
+}
+.contactinfo {
+    color: black;
+    font-size: 1em;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+.educationaccomplishments {
+    
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.education {
+     margin: 0 auto;
+    text-align: center;
+}
+
+.education h1 {
+    text-decoration: underline;
+}
+
+.accomplishments {
+    line-height: 1.75em;
+     margin: 0 auto;
+    text-align: center;
+}
+
+.accomplishments h1 {
+    line-height: 1.4em;
+    text-decoration: underline;
+}
+
+.professions {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.professions h1 {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+
+.interests {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.interests h1 {
+ text-decoration: underline;   
+}
+
+
+@media only screen and (min-width:960px) {
+    
+    header {
+        display: flex;
+        padding: 2em;
+    }
+    
+    header h1 {
+        padding: 1em;
+        font-size: 2.4em;
+        text-align: left;
+    }
+
+    
+    .contactinfo {
+        text-align: left;
+        margin-left: 1.25em;
+        order: 1;
+        line-height: 1.75em
+    }
+    
+    header img {
+        order: 2;
+        height: 15em;
+    }
+    
+    .educationaccomplishments {
+        display: flex;
+    }
+    
+    .professions {
+        order: 1;
+        padding: 4em;
+        line-height: 1.5em;
+    }
+    
+    .interests {
+        padding: 4em;
+        order: 2;
+    }
+    
+    .pi {
+        display: flex;
+        margin: 0 auto;
+        margin-left: 4em;
+        padding: 2em;
+    }
+    
+   h2 {
+        font-size: 1.3em;
+    }
+    
+}
