@@ -9,11 +9,11 @@ body {
 }
 
 header {
-    background-color: mediumaquamarine;
+    background-color: skyblue;
     color: white;
     margin: 0 auto;
     padding: 1.25em;
-    border-bottom: lightcoral  solid;
+    border-bottom: coral  solid;
     text-align: center;
         
 }
@@ -24,7 +24,7 @@ a:link {
 
 a:visited {
     font-size: 16px;
-    color: lightcoral;
+    color: coral;
 }
 
 
@@ -37,15 +37,18 @@ a:visited {
     
 header {
         margin: 0 auto;
+    height: 15em;
+    display: flex;
     }
     
     .photo {
-      margin-left: 10em;
+      margin-left: 5em;
+        height: 8em;
         
     }
     
     h1 {
-        font-size: 4em;
+        font-size: 2em;
     }
     
     h2 {
@@ -54,6 +57,7 @@ header {
     
     h1, 
     h2 {
+        width: 10em;
         margin-left: 3em;
         justify-content: space-between;
     }
