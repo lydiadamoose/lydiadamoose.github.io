@@ -38,17 +38,17 @@ a:visited {
 header {
         margin: 0 auto;
     height: 15em;
-    display: flex;
     }
     
     .photo {
       margin-left: 5em;
-        height: 8em;
+        height: 2em;
         
     }
     
     h1 {
         font-size: 2em;
+        height: 1em;
     }
     
     h2 {
