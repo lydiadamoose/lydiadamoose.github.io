@@ -1,0 +1,70 @@
+
+
+body {
+    height: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    color: navy;
+    font-family: 'Vidaloka', serif;
+}
+
+header {
+    background-color: mediumaquamarine;
+    color: white;
+    margin: 0 auto;
+    padding: 1.25em;
+    border-bottom: lightcoral  solid;
+    text-align: center;
+        
+}
+
+a:link {
+    color:navy;
+}
+
+a:visited {
+    font-size: 16px;
+    color: lightcoral;
+}
+
+
+.one,
+.two {
+    margin: 4.5em;
+}
+
+@media only screen and (min-width:960px) {
+    
+header {
+        margin: 0 auto;
+    }
+    
+    .photo {
+      margin-left: 10em;
+        
+    }
+    
+    h1 {
+        font-size: 4em;
+    }
+    
+    h2 {
+        font-size: 2em;
+    }
+    
+    h1, 
+    h2 {
+        margin-left: 3em;
+        justify-content: space-between;
+    }
+    
+    
+    
+    .one,
+    .two {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    
+}
