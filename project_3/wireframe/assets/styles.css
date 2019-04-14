@@ -13,7 +13,7 @@ header {
     color: white;
     margin: 0 auto;
     padding: 1.25em;
-    border-bottom: coral  solid;
+    border-bottom: lightcoral  solid;
     text-align: center;
         
 }
@@ -24,7 +24,7 @@ a:link {
 
 a:visited {
     font-size: 16px;
-    color: coral;
+    color: lightcoral;
 }
 
 
