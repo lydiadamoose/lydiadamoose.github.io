@@ -28,7 +28,7 @@ header {
     h2 {
         font-size: 1em;
         width: 100%;
-    }
+}
 
 p {
     width: 80%;
@@ -47,6 +47,12 @@ a:link {
 a:visited {
     font-size: 16px;
     color: lightcoral;
+}
+
+h4 {
+    color: black;
+    font-size: 2em;
+    text-align: center;
 }
 
 
@@ -85,6 +91,11 @@ a:visited {
         height: 20%;
     }
     
+    h4 {
+    font-size: 2.5em;
+}
+
+    
 @media screen and (min-width: 960px) {
     header {
         height: 20em;
@@ -93,12 +104,34 @@ a:visited {
     background-color: white;
   }
     
+h4 {
+    font-size: 3em;
+}
+
+    
 .one img {
-    height: 20em;
-    width: 20em;
+    width: 22em;
 }
 .two img {
+    width: 22em;
+}
+}
+    
+    @media screen and (min-width: 1200px) {
+    header {
+        height: 20em;
+     }
+  body {
+    background-color: white;
+        }
+h4 {
+    font-size: 3.5em;
+}
+
+.one img,
+        .two img {
+    margin-top: 10%;
+    width: 32em;
     height: 20em;
-    width: 20em;
 }
-}
+    }
