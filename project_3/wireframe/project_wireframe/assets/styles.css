@@ -32,10 +32,9 @@ p {
     margin: 0 auto;
     padding-bottom: 2em;
 }
-
-.images {
+.one {
     line-height: 4em;
-     height: 40em;
+     height: 7em;
     color: white;
     margin: 0 auto;
     padding: 1.25em;
@@ -43,9 +42,6 @@ p {
 }
 
 @media screen and (min-width: 660px) {
-    
-
-    
     
     
     
