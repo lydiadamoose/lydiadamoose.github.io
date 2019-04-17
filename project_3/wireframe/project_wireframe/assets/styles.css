@@ -16,6 +16,12 @@ header {
     padding: 1.5em;
 }
 
+.project-parent {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
 h2 {
     font-size: 1em;
     color: navy;
@@ -26,6 +32,7 @@ h2 {
 p {
     color: navy;
     line-height: 1em;
+    font-size: .5em;
     padding: 1em;
    text-align: center;
     width: 18em;
@@ -33,15 +40,41 @@ p {
     padding-bottom: 2em;
 }
 .one {
+    background-color: red;
     line-height: 4em;
-     height: 7em;
+     width: 10em;
     color: white;
     margin: 0 auto;
     padding: 1.25em;
     text-align: center;
 }
 
-@media screen and (min-width: 660px) {
+.two {
+    background-color: blue;
+    line-height: 4em;
+     width: 10em;
+    color: white;
+    margin: 0 auto;
+    padding: 1.25em;
+    text-align: center;
+}
+
+.three {
+    background-color: green;
+    line-height: 4em;
+     width: 10em;
+    color: white;
+    margin: 0 auto;
+    padding: 1.25em;
+    text-align: center;
+}
+
+@media screen and (min-width: 960px) {
    
+    .project-parent {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
     
 }

@@ -1,0 +1,115 @@
+body {
+    height: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    color: navy;
+    font-family: 'Libre Baskerville', serif;
+}
+
+header {
+    background-color: #BCDAF7;
+    font-size: 1.5em;
+    color: navy;
+    text-align: center;
+    border-bottom: solid 2px coral;
+    line-height: 2.5em;
+    padding: 1.5em;
+}
+
+.project1 {
+    background-color: blue;
+    height: 100%;
+}
+
+.project2 {
+    background-color: green;
+    height: 100%;
+}
+
+.project3 {
+    background-color: red;
+    height:100%;
+    text-align: center;
+}
+
+
+@media only screen and (min-width: 601px) {
+    
+.parent {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: space-around;
+}
+
+    .project1 {
+    display: flex;
+        align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 0 auto;
+    background-color: blue;
+}
+
+.project2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: green;
+}
+
+.project3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: skyblue;
+}
+    
+    h2,
+    p { 
+    width: 100%;
+        text-align: center;
+    }
+
+}
+
+
+@media only screen and (min-width: 960px) {
+ 
+.parent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: space-around;
+}
+    .project1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: blue;
+    height: 50em;
+    width: 30em;
+}
+
+.project2 {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    background-color: green;
+    height: 50em;
+    width: 25em;
+}
+
+.project3 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: red;
+    height:50em;
+    width: 20em;
+}
+    
+}
