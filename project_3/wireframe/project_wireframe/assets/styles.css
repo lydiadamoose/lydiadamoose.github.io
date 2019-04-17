@@ -1,0 +1,39 @@
+body {
+    height: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    color: navy;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    font-size: 3em;
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1em;
+    color: navy;
+    text-align: center;
+    line-height: 1em;
+}
+
+p {
+    color: navy;
+    line-height: 1em;
+    padding: 1em;
+   text-align: center;
+    width: 18em;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+.images {
+    line-height: 4em;
+     height: 40em;
+    color: white;
+    margin: 0 auto;
+    padding: 1.25em;
+    text-align: center;
+}
