@@ -16,65 +16,110 @@ header {
     padding: 1.5em;
 }
 
-.project-parent {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+.project1 {
+    background-color: #93E0F2;
+    height: 100%;
+}
+
+.project2 {
+    background-color: #5BAAF3;
+    height: 100%;
+}
+
+.project3 {
+    background-color: #143C69;
+    color: white;
+    height:100%;
+    text-align: center;
+    padding: 1.5em;
 }
 
 h2 {
-    font-size: 1em;
-    color: navy;
-    text-align: center;
-    line-height: 1em;
-}
-
-p {
-    color: navy;
-    line-height: 1em;
-    font-size: .5em;
-    padding: 1em;
-   text-align: center;
-    width: 18em;
-    margin: 0 auto;
-    padding-bottom: 2em;
-}
-.one {
-    background-color: red;
-    line-height: 4em;
-     width: 10em;
-    color: white;
-    margin: 0 auto;
-    padding: 1.25em;
     text-align: center;
 }
 
-.two {
-    background-color: blue;
-    line-height: 4em;
-     width: 10em;
-    color: white;
-    margin: 0 auto;
-    padding: 1.25em;
-    text-align: center;
+p { 
+line-height: 140%;
 }
 
-.three {
-    background-color: green;
-    line-height: 4em;
-     width: 10em;
-    color: white;
-    margin: 0 auto;
-    padding: 1.25em;
-    text-align: center;
+
+@media only screen and (min-width: 601px) {
+    
+.parent {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: space-around;
 }
 
-@media screen and (min-width: 960px) {
-   
-    .project-parent {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
+    .project1 {
+    display: flex;
+        align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 0 auto;
+}
+
+.project2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.project3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+    
+    h2,
+    p { 
+    width: 100%;
+        text-align: center;
+    }
+
+}
+
+
+@media only screen and (min-width: 960px) {
+ 
+.parent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: space-around;
+}
+    .project1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 50em;
+    width: 30em;
+}
+
+.project2 {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    height: 50em;
+    width: 25em;
+}
+
+.project3 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height:47em;
+    width: 20em;
+}
+    
+    p {
+        margin-top: 20%;
+        line-height: 180%;
     }
     
 }
