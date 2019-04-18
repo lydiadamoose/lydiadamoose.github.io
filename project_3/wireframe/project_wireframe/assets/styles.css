@@ -19,6 +19,7 @@ header {
 .project1 {
     background-color: #93E0F2;
     height: 100%;
+    width: 500px;
 }
 
 .project2 {
@@ -97,7 +98,7 @@ line-height: 140%;
     flex-direction: column;
     flex-wrap: wrap;
     height: 50em;
-    width: 30em;
+    width: 600px;
 }
 
 .project2 {
