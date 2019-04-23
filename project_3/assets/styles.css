@@ -12,8 +12,25 @@ header {
     color: white;
     text-align: center;
     border-bottom: solid 2px coral;
-    line-height: 2.5em;
-    padding: 1.5em;
+    line-height: 1em;
+    margin: 0 auto;
+}
+
+p,
+li {
+  text-align: center;
+    width: 80%;
+    margin: 0 auto; 
+    margin-top: 2em;
+    line-height: 150%;
+}
+    
+a:visited {
+    color: white;
+}
+
+a:link {
+    color: white;
 }
 
 h2 {
@@ -25,6 +42,8 @@ h2 {
     height:100%;
     text-align: center;
     padding: 2.5em;
+    margin-top: 2em;
+    box-shadow: navy 5px 9px 9px 6px;
 }
 
 .project2 {
@@ -32,6 +51,8 @@ h2 {
     height:100%;
     text-align: center;
     padding: 2em;
+    margin-top: 2em;
+    box-shadow: green 5px 9px 9px 6px;
 }
 
 .project3 {
@@ -39,6 +60,8 @@ h2 {
     height:100%;
     text-align: center;
     padding: 2em;
+    margin-top: 2em;
+    box-shadow: yellow 5px 9px 9px 6px;
 }
 
 .project4 {
@@ -46,14 +69,12 @@ h2 {
     height:100%;
     text-align: center;
     padding: 2em;
+    margin-top: 2em;
+    box-shadow: red 5px 9px 9px 6px;
 }
 
 h2 {
     text-align: center;
-}
-
-p { 
-line-height: 140%;
 }
 
 
