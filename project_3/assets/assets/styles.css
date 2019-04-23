@@ -27,14 +27,16 @@ header {
     width: 400px;
 }
 
-.project2 {
+.project2,
+.project4 {
     background-color: white;
     height: 100%;
-    margin-left: -6em;
+    margin-left: -2em;
 }
 
-.project2 img {
-    width: 550px;
+.project2 img,
+.project4 img {
+    width: 500px;
 }
 
 .project3 {
@@ -58,8 +60,19 @@ text-align: center;
 width: 70%;
 margin: 0 auto;
 margin-top: 2em;
+font-family: 'Wire One', sans-serif;
+font-size: 1.4em;
 }
 
+
+h3 {
+    text-align: center;
+    font-family: 'Wire One', sans-serif;
+    font-size: 3em;
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 1em;
+}
 
 @media only screen and (min-width: 601px) {
     
@@ -120,7 +133,7 @@ margin-top: 2em;
         width: 700px;
         margin: 0 auto;
         margin-top: -30%;
-        font-size: 1.4em;
+        font-size: 1.7em;
     }
 
 }
@@ -140,10 +153,11 @@ margin-top: 2em;
     flex-direction: column;
     flex-wrap: wrap;
     height: 50em;
-    width: 600px;
+    width: 680px;
 }
 
-.project2 {
+.project2,
+    .project4 {
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -151,14 +165,15 @@ margin-top: 2em;
     height: 50em;
     width: 25em;
 }
-
-.project3 {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    height:47em;
-    width: 20em;
-}
+    
+    .project4 img {
+        width: 285px;
+    }
+    
+    h3 {
+        margin-top: 2em;
+        font-size: 3.5em;
+    }
     
     p {
         margin-top: 5%;
