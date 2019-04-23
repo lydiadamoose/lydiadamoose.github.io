@@ -110,6 +110,7 @@ h3 {
 .project2 img,
     .project4 img {
     width: 150px;
+        margin-top: 3em;
 }
 
 .project3 {
@@ -130,6 +131,13 @@ h3 {
     
     h2 {
         font-size: 3em;
+        
+    }
+    
+    h3 {
+        
+       padding-bottom: 2em;
+        margin-top: -5em;
     }
     
     p {
@@ -137,7 +145,7 @@ h3 {
         font-size: 2em;
         width: 700px;
         margin: 0 auto;
-        margin-top: -30%;
+        margin-top: -10%;
         font-size: 1.7em;
     }
 
@@ -174,6 +182,7 @@ h3 {
     flex-wrap: wrap;
     height: 50em;
     width: 25em;
+            margin-left: -25em;
 }
     
     .project2 img {
@@ -182,15 +191,18 @@ h3 {
     
     .project2 img {
     width: 203px;
+        margin-top: 0em;
 }
     
     .project4 img {
         width: 285px;
+        margin-top: 0em;
     }
     
     h3 {
         margin-top: 2em;
         font-size: 3.5em;
+        padding: 0em;
     }
     
     p {
