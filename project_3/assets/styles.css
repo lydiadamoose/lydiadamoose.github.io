@@ -21,6 +21,8 @@ li {
     width: 80%;
     margin: 0 auto;
     line-height: 180%;
+    font-family: 'Wire One', sans-serif;
+    font-size: 1.3em;
 }
 
 p {
@@ -115,6 +117,15 @@ h2 {
     background-color: white;
     justify-content: space-around;
 }
+    .project1,
+    .project2 {
+        margin-top: 3em;
+    }
+    
+    p,
+    li {
+        font-size: 1.8em;
+    }
 
 
 @media only screen and (min-width: 960px) {
@@ -145,6 +156,18 @@ h2 {
     
     p {
         line-height: 180%;
+    }
+    
+     p,
+    li {
+        font-size: 2em;
+    }
+    
+     .navbar {
+        display: flex;
+        margin-left: 72%;
+        margin-top: 100px;
+        
     }
     
 }
