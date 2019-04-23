@@ -1,0 +1,77 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: shirtdesign1.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 10 in x 10 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Futura Medium (TrueType)
+Myriad Pro (OTF)
+Apple Chancery (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+/Users/lydiadamoose/Desktop/athletics_monogram_small_1.jpg
+Type: Other
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/24e06796c53f45f4ffca16e1799b8eff.png
+Type: CMYK
+Bits per Pixel: 33
+Channels: 4
+Size: 1488K, 602 by 633 pixels
+Dimensions: 368.219 by 387.181 points 
+Resolution: 117.712 by 117.712 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/d99c14f12b2ea078c735d8649d0da450--tartan-peace.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 163K, 236 by 236 pixels
+Dimensions: 88.433 by 84.726 points 
+Resolution: 192.146 by 200.553 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/d99c14f12b2ea078c735d8649d0da450--tartan-peace.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 163K, 236 by 236 pixels
+Dimensions: 373.859 by 330.67 points 
+Resolution: 45.45 by 51.387 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/d99c14f12b2ea078c735d8649d0da450--tartan-peace.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 163K, 236 by 236 pixels
+Dimensions: 341.643 by 327.322 points 
+Resolution: 49.736 by 51.912 pixels per inch

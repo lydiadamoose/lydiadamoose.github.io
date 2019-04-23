@@ -1,0 +1,57 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: CLERC.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 10 in x 10 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Factoria Demi (Typekit Fonts)
+Factoria Bold (Typekit Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/lydiadamoose/Desktop/athletics_monogram_small_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 24K, 100 by 82 pixels
+Dimensions: 178.989 by 135.073 points 
+Resolution: 40.226 by 43.71 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/leprachaun_small_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 23K, 100 by 80 pixels
+Dimensions: 172.965 by 134.749 points 
+Resolution: 41.627 by 42.746 pixels per inch

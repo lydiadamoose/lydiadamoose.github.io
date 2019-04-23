@@ -1,0 +1,131 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: band tank.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 10 in x 10 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Factoria Bold (Typekit Fonts)
+Factoria Black (Typekit Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Bazooka Regular (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/leprachaun_small_1.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/leprachaun_small_1.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/athletics_monogram_small_1.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/athletics_monogram_small_1.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/wordmark_notre_dame_two_color_example-1.jpg
+Type: Other
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: Other
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 38.347 by 40.153 points 
+Resolution: 281.639 by 448.286 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/NAVY_b60cab51-5b9b-4d5f-9672-f7f4192ef4fa.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4394K, 1000 by 1500 pixels
+Dimensions: 319.306 by 712.574 points 
+Resolution: 225.489 by 151.563 pixels per inch

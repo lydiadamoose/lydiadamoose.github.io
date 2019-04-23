@@ -1,0 +1,192 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: band tank.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 10 in x 10 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Factoria Bold (Typekit Fonts)
+Factoria Black (Typekit Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Bazooka Regular (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/lydiadamoose/Desktop/NAVY_b60cab51-5b9b-4d5f-9672-f7f4192ef4fa.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4394K, 1000 by 1500 pixels
+Dimensions: 319.306 by 712.574 points 
+Resolution: 225.489 by 151.563 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/leprachaun_small_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 23K, 100 by 80 pixels
+Dimensions: 61.499 by 49.199 points 
+Resolution: 117.076 by 117.076 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 260K, 258 by 344 pixels
+Dimensions: 489.75 by 653 points 
+Resolution: 37.93 by 37.93 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/athletics_monogram_small_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 24K, 100 by 82 pixels
+Dimensions: 37.207 by 30.51 points 
+Resolution: 193.512 by 193.512 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/athletics_monogram_small_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 24K, 100 by 82 pixels
+Dimensions: 73.239 by 60.056 points 
+Resolution: 98.308 by 98.308 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/wordmark_notre_dame_two_color_example-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 65K, 300 by 74 pixels
+Dimensions: 171.657 by 40.793 points 
+Resolution: 125.833 by 130.611 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 260K, 258 by 344 pixels
+Dimensions: 489.75 by 653 points 
+Resolution: 37.93 by 37.93 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 260K, 258 by 344 pixels
+Dimensions: 489.75 by 653 points 
+Resolution: 37.93 by 37.93 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/leprachaun_small_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 23K, 100 by 80 pixels
+Dimensions: 26.964 by 21.571 points 
+Resolution: 267.027 by 267.027 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 260K, 258 by 344 pixels
+Dimensions: 489.75 by 653 points 
+Resolution: 37.93 by 37.93 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/1307-white.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 260K, 258 by 344 pixels
+Dimensions: 489.75 by 653 points 
+Resolution: 37.93 by 37.93 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 38.347 by 40.153 points 
+Resolution: 281.639 by 448.286 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/Musical_eighth_notes.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 73K, 150 by 250 pixels
+Dimensions: 35.108 by 39.904 points 
+Resolution: 307.624 by 451.079 pixels per inch

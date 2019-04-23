@@ -1,0 +1,56 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: LongSleevedDesigns.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 10 in x 10 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Factoria Medium (Typekit Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/1200px-Notre_Dame_Fighting_Irish_logo.svg.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 6328K, 1200 by 1080 pixels
+Dimensions: 72.568 by 59.958 points 
+Resolution: 1190.612 by 1296.898 pixels per inch
+
+
+/Users/lydiadamoose/Desktop/BUSINESS/Band Clothing Order/Screen Shot 2018-06-21 at 10.10.28 AM
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 4305K, 896 by 984 pixels
+Dimensions: 559.642 by 597.205 points 
+Resolution: 115.274 by 118.633 pixels per inch
