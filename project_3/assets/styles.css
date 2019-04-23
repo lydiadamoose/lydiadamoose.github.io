@@ -120,6 +120,7 @@ h2 {
     .project1,
     .project2 {
         margin-top: 3em;
+        width: 200px;
     }
     
     p,

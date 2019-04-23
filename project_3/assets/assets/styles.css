@@ -90,21 +90,26 @@ h3 {
     flex-direction: row;
     flex-wrap: wrap;
     margin: 0 auto;
+    margin-left: 5em;
 }
     
 .project1 img {
-    width: 500px;
-    height: 650px;
+    width: 300px;
+    height: 350px;
+
 }
 
-.project2 {
+.project2,
+    .project4 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
+    margin-left: -15em;
 }
     
-.project2 img {
-    width: 203px;
+.project2 img,
+    .project4 img {
+    width: 150px;
 }
 
 .project3 {
@@ -154,6 +159,11 @@ h3 {
     flex-wrap: wrap;
     height: 50em;
     width: 680px;
+    }
+        
+.project1 img {
+    width: 500px;
+    height: 650px;
 }
 
 .project2,
@@ -164,6 +174,14 @@ h3 {
     flex-wrap: wrap;
     height: 50em;
     width: 25em;
+}
+    
+    .project2 img {
+    width: 50px;
+}
+    
+    .project2 img {
+    width: 203px;
 }
     
     .project4 img {
