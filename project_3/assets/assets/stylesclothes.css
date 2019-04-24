@@ -7,9 +7,9 @@ body {
 }
 
 header {
-    background-color: #BCDAF7;
+    background-color: #5BAAF3;
     font-size: 1.5em;
-    color: navy;
+    color: white;
     text-align: center;
     border-bottom: solid 2px coral;
     line-height: 2.5em;
@@ -78,7 +78,7 @@ h3 {
     
 .parent {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     background-color: white;
     height: 800px;
@@ -86,25 +86,28 @@ h3 {
 
     .project1 {
     display: flex;
-        align-content: center;
-    flex-direction: row;
+    align-content: center;
+    flex-direction: column;
     flex-wrap: wrap;
     margin: 0 auto;
 }
     
 .project1 img {
-    width: 500px;
+    width: 400px;
     height: 650px;
 }
 
-.project2 {
+.project2,
+.project4 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
+    margin: 0 auto;
 }
     
-.project2 img {
-    width: 203px;
+.project2 img,
+.project4 img {
+    width: 303px;
 }
 
 .project3 {
@@ -132,7 +135,7 @@ h3 {
         font-size: 2em;
         width: 700px;
         margin: 0 auto;
-        margin-top: -30%;
+        margin-top: 0%;
         font-size: 1.7em;
     }
 
