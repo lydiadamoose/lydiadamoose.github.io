@@ -29,23 +29,10 @@ header img {
 p {
     font-family: 'Wire One', sans-serif;
     text-align: center;
-    width: 75%;
+    width: 70%;
     margin: 0 auto;
     line-height: 140%;
     font-size: 1.5em;
     margin-bottom: 2em;
-}
-.hide {
-    display: none;
-}
-
-@media only screen and (min-width: 601px) {
-  
-    .original {
-        display: inline-grid;
-    }
-    
-    .hide {
-        display: inline-grid;
-    }
+    margin-top: 1.5em;
 }
