@@ -16,38 +16,35 @@ header {
     padding: 1.5em;
 }
 
-.project1 {
+.project1,
+.project3 {
     background-color: white;
-    margin-left: 0 auto;
+    margin: 0 auto;
     
 
 }
 
 .project1 img {
-    width: 400px;
+    
+    width: 33em;
+    margin-left: -3em;
+}
+.project3 img {
+    width: 100%;
 }
 
 .project2,
 .project4 {
     background-color: white;
     height: 100%;
-    margin-left: -4.3em;
 }
 
-.project2 img,
-.project4 img {
+.project2 img {
     width: 500px;
 }
 
-.project3 {
-    background-color: #143C69;
-    color: white;
-    height:100%;
-    text-align: center;
-}
-
-.project3 img {
-    width: 400px;
+.project4 img {
+    width: 100%;
 }
 
 h2 {
@@ -84,7 +81,8 @@ h3 {
     height: 800px;
 }
 
-    .project1 {
+    .project1,
+    .project3 {
     display: flex;
     align-content: center;
     flex-direction: column;
@@ -92,7 +90,8 @@ h3 {
     margin: 0 auto;
 }
     
-.project1 img {
+.project1 img,
+.project3 img {
     width: 400px;
     height: 650px;
 }
@@ -152,7 +151,8 @@ h3 {
     justify-content: space-around;
     margin: 0 auto;
 }
-    .project1 {
+    .project1,
+    .project3 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -162,7 +162,7 @@ h3 {
 }
     
      .project1 img {
-        width: 500px;
+        width: 600px;
         margin-left: -2em;
     }
 
@@ -178,13 +178,18 @@ h3 {
 }
     
     .project2 img {
-        width: 24em;
+        width: 18em;
         margin-left: -2em;
     }
     
+    .project3 img {
+        width: 50%;
+    }
+    
     .project4 img {
-        width: 22em;
-        margin-left: -12em;
+        width: 18em;
+        margin-left: -em;
+        margin-top: 2em;
     }
     
     h3 {
