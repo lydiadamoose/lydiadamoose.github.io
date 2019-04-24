@@ -24,7 +24,7 @@ header {
 }
 
 .project1 img {
-    width: 400px;
+    width: 100%;
 }
 
 .project2,
@@ -43,11 +43,11 @@ header {
     background-color: #143C69;
     color: white;
     height:100%;
-    text-align: center;
+    align-content: center;
 }
 
 .project3 img {
-    width: 400px;
+    width: 100%;
 }
 
 h2 {
@@ -81,21 +81,16 @@ h3 {
     flex-direction: column;
     flex-wrap: wrap;
     background-color: white;
-    height: 800px;
+    margin: 0 auto;
+    justify-content: space-around;
 }
 
     .project1 {
     display: flex;
-        align-content: center;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
-    margin: 0 auto;
-    margin-left: 5em;
-}
-    
-.project1 img {
-    width: 30em;
-    height: 33em;
+    margin-left: 8em;
+    width: 20%;
 
 }
 
@@ -104,19 +99,15 @@ h3 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    margin-left: -15em;
+    margin: 0 auto;
     margin-bottom: 2em;
 }
     
 .project2 img,
     .project4 img {
-    width: 150px;
+    width: 30%;
 }
-    
-    .project2 img {
-        margin-top: 6em;
-    }
-    
+    .project2,
     .project4 {
        margin-top: 10em;
     }
@@ -164,46 +155,46 @@ h3 {
     flex-wrap: wrap;
     background-color: white;
     justify-content: space-between;
-    margin-left: -5em;
+    margin: 0 auto;
 }
     .project1 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    align-content: right;
     height: 50em;
-    width: 680px;
+    margin-left: 10%;
     }
         
 .project1 img {
-    width: 33em;
-    height: 40em;
+    width: 200%;
+    margin-top: 40%;
 }
 
 .project2,
     .project4 {
     display: flex;
     flex-direction: column;
-    align-content: center;
     flex-wrap: wrap;
-    height: 50em;
     width: 25em;
-    margin-left: -25em;
+    margin: 0 auto;
 }
     
-    .project2 img {
-    width: 50px;
-}
+    .project2 {
+        margin-left: 40%;
+    }
     
     .project2 img {
-    width: 203px;
+    width: 13em;
         margin-top: 0em;
 }
-       .project4 {
+    .project4 {
        margin-top: 0em;
     }
     
     .project4 img {
         width: 285px;
+         margin-left: 30%;
     }
     
     h3 {
