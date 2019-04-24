@@ -112,7 +112,7 @@ h2 {
 .parent,
     .parent2 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     background-color: white;
     justify-content: space-around;
@@ -120,7 +120,7 @@ h2 {
     .project1,
     .project2 {
         margin-top: 3em;
-        width: 200px;
+        width: 300px;
     }
     
     p,
