@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: lightseagreen;
+    background-color: midnightblue;
     font-size: 1.2em;
     color: white;
     text-align: center;
@@ -34,4 +34,18 @@ p {
     line-height: 140%;
     font-size: 1.5em;
     margin-bottom: 2em;
+}
+.hide {
+    display: none;
+}
+
+@media only screen and (min-width: 601px) {
+  
+    .original {
+        display: inline-grid;
+    }
+    
+    .hide {
+        display: inline-grid;
+    }
 }
