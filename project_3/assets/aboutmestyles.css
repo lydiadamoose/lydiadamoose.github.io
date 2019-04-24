@@ -1,0 +1,37 @@
+body {
+    height: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    color: navy;
+    font-family: 'Libre Baskerville', serif;
+}
+
+header {
+    background-color: navy;
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    border-bottom: solid 4px coral;
+    line-height: 1em;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+header img {
+    width: 16em;
+    
+}
+
+p {
+    font-family: 'Wire One', sans-serif;
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+    line-height: 140%;
+    font-size: 1.5em;
+    margin-bottom: 2em;
+}
