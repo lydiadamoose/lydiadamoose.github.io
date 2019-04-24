@@ -7,14 +7,15 @@ body {
 }
 
 header {
-    background-color: #5BAAF3;
+    background-color: navy;
     font-size: 1.2em;
     color: white;
     text-align: center;
-    border-bottom: solid 2px coral;
+    border-bottom: solid 4px coral;
     line-height: 1em;
     margin: 0 auto;
 }
+
 p,
 li {
   text-align: center;
@@ -39,6 +40,7 @@ a:link {
 
 h2 {
     font-size: 1em;
+    text-align: center;
 }
 
 .project1 {
@@ -75,10 +77,6 @@ h2 {
     padding: 2em;
     margin-top: 2em;
     box-shadow: red 5px 9px 9px 6px;
-}
-
-h2 {
-    text-align: center;
 }
 
 

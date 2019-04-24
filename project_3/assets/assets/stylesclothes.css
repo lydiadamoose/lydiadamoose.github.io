@@ -7,11 +7,11 @@ body {
 }
 
 header {
-    background-color: #5BAAF3;
+    background-color: navy;
     font-size: 1.5em;
     color: white;
     text-align: center;
-    border-bottom: solid 2px coral;
+    border-bottom: solid 4px coral;
     line-height: 2.5em;
     padding: 1.5em;
 }
@@ -150,14 +150,15 @@ h3 {
     flex-wrap: wrap;
     background-color: white;
     justify-content: space-around;
+    margin: 0 auto;
 }
     .project1 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-        margin-left: -2em;
+        margin: 0 auto;
     height: 50em;
-    width: 680px;
+    width: 35em;
 }
     
      .project1 img {
@@ -177,12 +178,12 @@ h3 {
 }
     
     .project2 img {
-        width: 380px;
+        width: 24em;
         margin-left: -2em;
     }
     
     .project4 img {
-        width: 285px;
+        width: 22em;
         margin-left: -12em;
     }
     

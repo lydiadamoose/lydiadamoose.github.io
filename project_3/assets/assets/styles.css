@@ -7,11 +7,11 @@ body {
 }
 
 header {
-    background-color: #5BAAF3;
+    background-color: navy;
     font-size: 1.5em;
     color: white;
     text-align: center;
-    border-bottom: solid 2px coral;
+    border-bottom: solid 4px coral;
     line-height: 2.5em;
     padding: 1.5em;
 }
@@ -94,8 +94,8 @@ h3 {
 }
     
 .project1 img {
-    width: 300px;
-    height: 350px;
+    width: 30em;
+    height: 33em;
 
 }
 
@@ -105,23 +105,25 @@ h3 {
     flex-direction: column;
     flex-wrap: wrap;
     margin-left: -15em;
+    margin-bottom: 2em;
 }
     
 .project2 img,
     .project4 img {
     width: 150px;
-        margin-top: 3em;
-}
-
-.project3 {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
 }
     
-.project3 img {
-    width: 300px;
-}
+    .project2 img {
+        margin-top: 6em;
+    }
+    
+    .project4 {
+       margin-top: 10em;
+    }
+    
+    .project4 img {
+        width: 250px;
+    }
     
     h2,
     p { 
@@ -131,13 +133,15 @@ h3 {
     
     h2 {
         font-size: 3em;
+        margin: 0 auto;
+        padding: .5em;
         
     }
     
     h3 {
         
-       padding-bottom: 2em;
-        margin-top: -5em;
+       padding-bottom: 0em;
+        margin-top: 0em;
     }
     
     p {
@@ -145,7 +149,6 @@ h3 {
         font-size: 2em;
         width: 700px;
         margin: 0 auto;
-        margin-top: -10%;
         font-size: 1.7em;
     }
 
@@ -153,13 +156,15 @@ h3 {
 
 
 @media only screen and (min-width: 960px) {
+    
  
 .parent {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     background-color: white;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-left: -5em;
 }
     .project1 {
     display: flex;
@@ -170,8 +175,8 @@ h3 {
     }
         
 .project1 img {
-    width: 500px;
-    height: 650px;
+    width: 33em;
+    height: 36em;
 }
 
 .project2,
@@ -182,7 +187,7 @@ h3 {
     flex-wrap: wrap;
     height: 50em;
     width: 25em;
-            margin-left: -25em;
+    margin-left: -25em;
 }
     
     .project2 img {
@@ -193,14 +198,16 @@ h3 {
     width: 203px;
         margin-top: 0em;
 }
+       .project4 {
+       margin-top: 0em;
+    }
     
     .project4 img {
         width: 285px;
-        margin-top: 0em;
     }
     
     h3 {
-        margin-top: 2em;
+        margin-top: 0em;
         font-size: 3.5em;
         padding: 0em;
     }
