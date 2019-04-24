@@ -89,8 +89,8 @@ h3 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    margin-left: 8em;
-    width: 20%;
+    margin-left: 12em;
+    width: 60%;
 
 }
 
@@ -162,7 +162,7 @@ h3 {
     flex-direction: column;
     flex-wrap: wrap;
     align-content: right;
-    height: 50em;
+    width: 20%;
     margin-left: 10%;
     }
         
