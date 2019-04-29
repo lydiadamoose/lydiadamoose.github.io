@@ -16,8 +16,7 @@ header {
     padding: 1.5em;
 }
 
-.project1,
-.project3 {
+.project1 {
     background-color: white;
     margin: 0 auto;
     
@@ -27,9 +26,7 @@ header {
 .project1 img {
     
     width: 100%;
-}
-.project3 img {
-    width: 100%;
+    border: solid black .1em;
 }
 
 .project2,
@@ -40,10 +37,12 @@ header {
 
 .project2 img {
     width: 100%;
+    border: solid black .1em;
 }
 
 .project4 img {
     width: 100%;
+    border: solid black .1em;
 }
 
 h2 {
@@ -55,7 +54,7 @@ line-height: 140%;
 text-align: center;
 width: 70%;
 margin: 0 auto;
-margin-top: 2em;
+margin-top: 1em;
 font-family: 'Wire One', sans-serif;
 font-size: 1.4em;
 }
@@ -90,20 +89,23 @@ h3 {
     
 .project1 img,
 .project3 img {
-    width: 100%;
+    width: 60%;
 }
 
 .project2,
 .project4 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     margin: 0 auto;
 }
     
 .project2 img,
 .project4 img {
-    width: 100%;
+    width: 45%;
+    height: 20em;
+    margin: 0 auto;
+    margin-top: 3em;
 }
 
 .project3 {
@@ -111,10 +113,7 @@ h3 {
     flex-direction: row;
     flex-wrap: wrap;
 }
-    
-.project3 img {
-    width: 3%;
-}
+
     
     h2,
     p { 
@@ -159,6 +158,8 @@ h3 {
     
      .project1 img {
         width: 100%;
+        margin-top: 9%;
+       
     }
 
 .project2,
@@ -173,18 +174,16 @@ h3 {
 }
     
     .project2 img {
-        width: 18em;
+        width: 23em;
+        height: 30%;
         margin-left: -2em;
-    }
-    
-    .project3 img {
-        width: 50%;
+        margin-top: 3%;
     }
     
     .project4 img {
         width: 18em;
-        margin-left: -em;
-        margin-top: 2em;
+        height: 30%;
+        margin-top: 1em;
     }
     
     h3 {
@@ -194,7 +193,7 @@ h3 {
     
     p {
      
-        margin-top: -10em;
+        margin-top: -8.2em;
     }
     
 }
