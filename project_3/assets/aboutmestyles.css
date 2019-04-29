@@ -37,11 +37,22 @@ p {
     margin-top: 1.5em;
 }
 
+.contact {
+    margin: 0 auto;
+    margin-left: 10%;
+}
+
+
 @media only screen and (min-width: 601px) {
   
     
     header img {
         width: 18em;
+    }
+    
+    .contact {
+           display: flex;
+        margin-left: 20%;
     }
     
     }
@@ -52,6 +63,10 @@ p {
     
     header img {
         width: 20em;
+    }
+    
+    .contact {
+        margin-left: 30%;
     }
     
     }
