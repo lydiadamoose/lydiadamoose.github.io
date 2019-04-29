@@ -18,36 +18,28 @@ header {
 
 .project1 {
     background-color: white;
-    margin-left: 0 auto;
+    margin: 0 auto;
     
 
 }
 
 .project1 img {
-    width: 105%;
+    
+    width: 100%;
 }
 
 .project2,
 .project4 {
     background-color: white;
-    height: 100%;
-    margin-left: -4.3em;
+    width: 100%;
 }
 
-.project2 img,
+.project2 img {
+    width: 100%;
+}
+
 .project4 img {
-    width: 500px;
-}
-
-.project3 {
-    background-color: #143C69;
-    color: white;
-    height:100%;
-    text-align: center;
-}
-
-.project3 img {
-    width: 400px;
+    width: 100%;
 }
 
 h2 {
@@ -59,20 +51,11 @@ line-height: 140%;
 text-align: center;
 width: 70%;
 margin: 0 auto;
-margin-top: 2em;
+margin-top: 1em;
 font-family: 'Wire One', sans-serif;
 font-size: 1.4em;
 }
 
-
-h3 {
-    text-align: center;
-    font-family: 'Wire One', sans-serif;
-    font-size: 3em;
-    width: 85%;
-    margin: 0 auto;
-    padding-top: 1em;
-}
 
 @media only screen and (min-width: 601px) {
     
@@ -81,7 +64,6 @@ h3 {
     flex-direction: row;
     flex-wrap: wrap;
     background-color: white;
-    height: 800px;
 }
 
     .project1 {
@@ -93,21 +75,25 @@ h3 {
 }
     
 .project1 img {
-    width: 400px;
-    height: 650px;
+    width: 100%;
+    height: 40em;
+    margin: 0 auto;
 }
 
 .project2,
 .project4 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     margin: 0 auto;
 }
     
 .project2 img,
 .project4 img {
-    width: 303px;
+    width: 45%;
+    height: 23em;
+    margin: 0 auto;
+    margin-top: 3em;
 }
 
 .project3 {
@@ -115,10 +101,7 @@ h3 {
     flex-direction: row;
     flex-wrap: wrap;
 }
-    
-.project3 img {
-    width: 300px;
-}
+
     
     h2,
     p { 
@@ -133,10 +116,10 @@ h3 {
     p {
         background-color: white;
         font-size: 2em;
-        width: 700px;
+        width: 80%;
         margin: 0 auto;
-        margin-top: 0%;
         font-size: 1.7em;
+        margin-top: 2em;
     }
 
 }
@@ -152,18 +135,20 @@ h3 {
     justify-content: space-around;
     margin: 0 auto;
 }
-    .project1 {
+    .project1,
+    .project3 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
         margin: 0 auto;
-    height: 50em;
     width: 35em;
 }
     
-     .project1 img {
-        width: 500px;
-        margin-left: -2em;
+     .project1 img,
+    .project3 img {
+        width: 100%;
+        margin-top: 9%;
+       
     }
 
 .project2,
@@ -172,19 +157,22 @@ h3 {
     flex-direction: column;
     align-content: center;
     flex-wrap: wrap;
-        margin-left: -2em;
+    margin-left: -2em;
     height: 50em;
     width: 25em;
 }
     
     .project2 img {
-        width: 24em;
+        width: 15em;
+        height: 30%;
         margin-left: -2em;
+        margin-top: 12%;
     }
     
     .project4 img {
-        width: 22em;
-        margin-left: -12em;
+        width: 18em;
+        height: 30%;
+        margin-top: 12%;
     }
     
     h3 {
@@ -193,8 +181,8 @@ h3 {
     }
     
     p {
-        margin-top: 5%;
-
+     
+        margin-top: -5em;
     }
     
 }
