@@ -177,13 +177,14 @@ h2 {
         display: flex;
         margin-left: 72%;
         margin-top: 13%;
+        margin-bottom: 1em;
          
         
     }
     
     header img {
         margin-top: 8%;
-        height: 15em;
+        height: 17em;
     }
     
     p {
