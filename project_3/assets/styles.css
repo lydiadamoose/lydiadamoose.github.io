@@ -156,7 +156,6 @@ h2 {
     }
     
     header img {
-        margin-top: 8%;
         width: 30%;
     }
     
@@ -179,6 +178,8 @@ h2 {
     li {
         font-size: 1.8em;
     }
+    
+    
 
 
 @media only screen and (min-width: 960px) {
