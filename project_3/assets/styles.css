@@ -16,9 +16,55 @@ header {
     margin: 0 auto;
 }
 
-.navbar {
-    margin-left: -2em;
+#hamburger-menu {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 20px;
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
 }
+
+#hamburger-menu:hover {
+    color: darkred;
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
 
 p,
 li {
@@ -103,12 +149,6 @@ h2 {
         
     }
     
-    .navbar {
-        display: flex;
-        margin-left: 60%;
-        margin-top: 100px;
-        
-    }
     
     .namepic {
         display: flex;
@@ -171,16 +211,7 @@ h2 {
          font-size: 2em;
          
     }
-    
-    
-     .navbar {
-        display: flex;
-        margin-left: 72%;
-        margin-top: 15%;
-        margin-bottom: 1em;
-         
-        
-    }
+
     
     header img {
         margin-top: 8%;
