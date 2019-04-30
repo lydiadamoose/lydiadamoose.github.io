@@ -151,8 +151,8 @@ h2 {
     
     header h1 {
         padding: 1em;
-        font-size: 2.4em;
-        text-align: left;
+        font-size: 330%;
+        text-align: center;
     }
 
     
@@ -166,6 +166,8 @@ h2 {
     header img {
         order: 2;
         height: 15em;
+        margin-right: 4em;
+        
     }
     
     .educationaccomplishments {
