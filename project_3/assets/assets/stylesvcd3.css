@@ -2,7 +2,7 @@ body {
     height: 1024px;
     margin: 0 auto;
     background-color: white;
-    color: coral;
+    color: #808080;
     font-family: 'Libre Baskerville', serif;
 }
 
@@ -97,17 +97,17 @@ header {
 
 h2 {
     text-align: center;
+    font-size: 2em;
 }
 
 p { 
+font-family: 'PT Sans Caption', sans-serif;
 line-height: 140%;
 text-align: center;
 width: 70%;
 margin: 0 auto;
 margin-top: 1em;
-font-family: 'Wire One', sans-serif;
-font-size: 1.4em;
-font-weight: 800;
+font-size: 1em;
 }
 
 
@@ -181,7 +181,7 @@ h3 {
         font-size: 2em;
         width: 80%;
         margin: 0 auto;
-        font-size: 1.7em;
+        font-size: 1.4em;
         margin-top: 1em;
     }
 
@@ -243,8 +243,7 @@ h3 {
     }
     
     p {
-     
-        margin-top: -7.3%;
+     margin-top: -9%;
     }
     
 }

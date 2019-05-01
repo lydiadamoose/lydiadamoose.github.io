@@ -2,7 +2,7 @@ body {
     height: 1024px;
     margin: 0 auto;
     background-color: white;
-    color: coral;
+    color: #808080;
   font-family: 'Libre Baskerville', serif;
 }
 
@@ -95,6 +95,7 @@ header {
 
 h2 {
     text-align: center;
+    font-size: 2em;
 }
 
 p { 
@@ -148,12 +149,6 @@ font-size: 1em;
     border: solid black .13em; 
     border-bottom: solid black .13em;
     border-top: solid black .13em;
-}
-
-.project3 {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
 }
 
     
