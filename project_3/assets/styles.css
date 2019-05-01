@@ -2,7 +2,7 @@ body {
     height: 1024px;
     margin: 0 auto;
     background-color: white;
-    color: coral;
+    color: #808080;
     font-family: 'Libre Baskerville', serif;
 }
 
@@ -77,8 +77,8 @@ li {
     width: 80%;
     margin: 0 auto;
     line-height: 180%;
-    font-family: 'Wire One', sans-serif;
-    font-size: 1.3em;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 1em;
 }
 
 p {
@@ -182,7 +182,7 @@ h2 {
     
     p,
     li {
-        font-size: 1.8em;
+        font-size: 1.2em;
     }
     
     
@@ -227,12 +227,12 @@ h2 {
     }
     
     p {
-        line-height: 180%;
+        line-height: 100%;
     }
     
      p,
     li {
-        font-size: 2em;
+        font-size: 1.4em;
     }
     
 }
