@@ -129,12 +129,17 @@ h2 {
 }
 
 
+header img {
+    margin-right: 2em;
+}
+
 @media only screen and (min-width:960px) {
     
     header {
         display: flex;
         padding: 2em;
     }
+
     
     header h1 {
         padding: 1em;
