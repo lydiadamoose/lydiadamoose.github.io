@@ -1,0 +1,254 @@
+body {
+    height: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    color: navy;
+    font-family: 'Libre Baskerville', serif;
+}
+
+header {
+    background-color: midnightblue;
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    border-bottom: solid 4px coral;
+    line-height: 2.5em;
+    padding: 1.5em;
+}
+
+#hamburger-menu {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 20px;
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
+}
+
+#hamburger-menu:hover {
+    color: darkred;
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+
+.project1 {
+    background-color: white;
+    margin: 0 auto;
+    
+
+}
+
+.project1 img, 
+.project3 img {
+    
+    width: 100%;
+}
+
+.project2,
+.project4 {
+    background-color: white;
+    width: 100%;
+}
+
+.project2 img {
+    width: 100%;
+}
+
+.project4 img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+p { 
+line-height: 140%;
+text-align: center;
+width: 70%;
+margin: 0 auto;
+margin-top: 1em;
+font-family: 'Wire One', sans-serif;
+font-size: 1.4em;
+}
+
+
+h3 {
+    text-align: center;
+    font-family: 'Wire One', sans-serif;
+    font-size: 3em;
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 1em;
+}
+
+@media only screen and (min-width: 601px) {
+    
+.parent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+    .project1,
+    .project3 {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+    
+.project1 img,
+.project3 img {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.project2,
+.project4 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+    
+    .project2 img {
+        margin: 0 auto;
+        margin-top: 3em;
+        width: 35%;
+        height: 20em;   
+    }
+
+.project4 img {
+    width: 40%;
+    height: 20em;
+    margin: 0 auto;
+    margin-top: 3em;
+}
+
+.project3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+    
+    h2,
+    p { 
+    width: 100%;
+    text-align: center;
+    }
+    
+    h2 {
+        font-size: 3em;
+    }
+    
+    p {
+        background-color: white;
+        font-size: 2em;
+        width: 80%;
+        margin: 0 auto;
+        font-size: 1.7em;
+        margin-top: 2em;
+    }
+
+}
+
+
+@media only screen and (min-width: 960px) {
+ 
+.parent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+    .project1,
+    .project3 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+        margin: 0 auto;
+    width: 35em;
+}
+    
+     .project1 img,
+    .project3 img {
+        width: 100%;
+        margin-top: 18%;
+       
+    }
+
+.project2,
+    .project4 {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-left: -2em;
+    height: 50em;
+    width: 25em;
+}
+   
+    .project2 img {
+        width: 15em;
+        height: 38%;
+        margin-top: 19%;
+    }
+    
+    
+    .project4 img {
+        width: 18em;
+        height: 35%;
+        margin-top: 12%;
+    }
+    
+    h3 {
+        margin-top: -2em;
+        font-size: 3.5em;
+    }
+    
+    p {
+     margin-top: 1em;
+    }
+    
+}
