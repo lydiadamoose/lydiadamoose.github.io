@@ -2,12 +2,12 @@ body {
     height: 1024px;
     margin: 0 auto;
     background-color: white;
-    color: navy;
-    font-family: 'Libre Baskerville', serif;
+    color: coral;
+  font-family: 'Libre Baskerville', serif;
 }
 
 header {
-    background-color: midnightblue;
+    background-color: #b4d7f6;
     font-size: 1.5em;
     color: white;
     text-align: center;
@@ -98,13 +98,13 @@ h2 {
 }
 
 p { 
+font-family: 'PT Sans Caption', sans-serif;
 line-height: 140%;
 text-align: center;
 width: 70%;
 margin: 0 auto;
 margin-top: .65em;
-font-family: 'Wire One', sans-serif;
-font-size: 1.4em;
+font-size: 1em;
 }
 
 
@@ -172,8 +172,8 @@ font-size: 1.4em;
         font-size: 2em;
         width: 80%;
         margin: 0 auto;
-        font-size: 1.7em;
-        margin-top: 2em;
+        font-size: 1.4em;
+        margin-top: 1em;
     }
 
 }
@@ -233,10 +233,6 @@ font-size: 1.4em;
         margin-top: 2em;
         font-size: 3.5em;
     }
-    
-    p {
-     
-        margin-top: -3em;
-    }
+
     
 }

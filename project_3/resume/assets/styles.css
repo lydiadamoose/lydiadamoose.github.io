@@ -4,10 +4,10 @@ body {
 }
 
 header {
-    background-color: navy;
+    background-color: #b4d7f6;
     margin: 0 auto;
     padding: 1.25em;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid coral;
     text-align: center;
 }
 

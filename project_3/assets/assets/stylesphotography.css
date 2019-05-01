@@ -2,12 +2,12 @@ body {
     height: 1024px;
     margin: 0 auto;
     background-color: white;
-    color: navy;
+    color: coral;
     font-family: 'Libre Baskerville', serif;
 }
 
 header {
-    background-color: midnightblue;
+    background-color: #b4d7f6;
     font-size: 1.5em;
     color: white;
     text-align: center;
