@@ -1,32 +1,19 @@
 body {
     font-family: 'Libre Baskerville', serif;
     background-color:white;
-    color: #808080
 }
 
 header {
     background-color: #b4d7f6;
+    color: white;
     margin: 0 auto;
     padding: 1.25em;
     border-bottom: 2px solid coral;
     text-align: center;
 }
 
-header h1 {
-    color: white;
-    text-align: center;
-}
-
-header p {
-    color: white;
-}
-
-a:link {
-    color: white;
-}
-
-a:visited  {
-    color: white;
+header img {
+    height: 9.25em;
 }
 
 #hamburger-menu {
@@ -79,12 +66,11 @@ a:visited  {
 }
 
 
-
-header img {
-    height: 9.25em;
 }
 
-
+header h1 {
+    text-align: center;
+}
 .contactinfo {
     color: black;
     font-size: 1em;
@@ -152,8 +138,8 @@ h2 {
     
     header h1 {
         padding: 1em;
-        font-size: 330%;
-        text-align: center;
+        font-size: 2.4em;
+        text-align: left;
     }
 
     
@@ -167,8 +153,6 @@ h2 {
     header img {
         order: 2;
         height: 15em;
-        margin-right: 4em;
-        
     }
     
     .educationaccomplishments {
